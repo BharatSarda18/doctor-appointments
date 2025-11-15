@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Dr. Rajesh Kumar",
+    "email": "rajesh.kumar@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "name": "Dr. Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43211"
+  },
+  {
+    "name": "Dr. Amit Patel",
+    "email": "amit.patel@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43212"
+  },
+  {
+    "name": "Dr. Sneha Reddy",
+    "email": "sneha.reddy@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43213"
+  },
+  {
+    "name": "Dr. Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43214"
+  },
+  {
+    "name": "Dr. Anjali Mehta",
+    "email": "anjali.mehta@example.com",
+    "passwordHash": "$2a$10$rOzJqKqKqKqKqKqKqKqKqOqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKqKq",
+    "role": "DOCTOR",
+    "phone": "+91 98765 43215"
+  }
+]
+

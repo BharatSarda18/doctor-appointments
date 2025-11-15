@@ -1,0 +1,237 @@
+[
+  {
+    "specialization": "Cardiologist",
+    "experienceYears": 12,
+    "consultationFee": 1500,
+    "about": "Experienced cardiologist with expertise in preventive cardiology, heart failure management, and interventional cardiology. MBBS, MD in Cardiology from AIIMS Delhi.",
+    "clinicName": "Heart Care Clinic",
+    "clinicAddress": "123 Medical Street, Sector 15, Noida",
+    "city": "Noida",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 1,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "14:00",
+        "endTime": "18:00",
+        "slotDurationMinutes": 30
+      }
+    ],
+    "blockedDates": []
+  },
+  {
+    "specialization": "Dermatologist",
+    "experienceYears": 8,
+    "consultationFee": 1200,
+    "about": "Board-certified dermatologist specializing in cosmetic dermatology, acne treatment, and skin cancer screening. Expert in laser treatments and anti-aging procedures.",
+    "clinicName": "Skin & Beauty Clinic",
+    "clinicAddress": "456 Health Avenue, Connaught Place, New Delhi",
+    "city": "New Delhi",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 0,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 2,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 4,
+        "startTime": "15:00",
+        "endTime": "19:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 6,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      }
+    ],
+    "blockedDates": []
+  },
+  {
+    "specialization": "Orthopedic Surgeon",
+    "experienceYears": 15,
+    "consultationFee": 2000,
+    "about": "Senior orthopedic surgeon with extensive experience in joint replacement, sports medicine, and trauma surgery. Performed over 5000 successful surgeries.",
+    "clinicName": "Bone & Joint Care Center",
+    "clinicAddress": "789 Hospital Road, Andheri West, Mumbai",
+    "city": "Mumbai",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 1,
+        "startTime": "08:00",
+        "endTime": "12:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "08:00",
+        "endTime": "12:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "14:00",
+        "endTime": "18:00",
+        "slotDurationMinutes": 30
+      }
+    ],
+    "blockedDates": []
+  },
+  {
+    "specialization": "Pediatrician",
+    "experienceYears": 10,
+    "consultationFee": 1000,
+    "about": "Caring pediatrician with expertise in child development, vaccination, and common childhood illnesses. Special interest in neonatology and adolescent health.",
+    "clinicName": "Little Stars Clinic",
+    "clinicAddress": "321 Children's Lane, Koramangala, Bangalore",
+    "city": "Bangalore",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 0,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 1,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 2,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 4,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "14:00",
+        "endTime": "18:00",
+        "slotDurationMinutes": 30
+      }
+    ],
+    "blockedDates": []
+  },
+  {
+    "specialization": "General Physician",
+    "experienceYears": 20,
+    "consultationFee": 800,
+    "about": "Senior general physician with vast experience in treating common ailments, chronic diseases, and preventive healthcare. Known for patient-friendly approach and accurate diagnosis.",
+    "clinicName": "Family Health Clinic",
+    "clinicAddress": "654 Wellness Boulevard, Salt Lake, Kolkata",
+    "city": "Kolkata",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 1,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 20
+      },
+      {
+        "dayOfWeek": 2,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 20
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 20
+      },
+      {
+        "dayOfWeek": 4,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 20
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "09:00",
+        "endTime": "13:00",
+        "slotDurationMinutes": 20
+      },
+      {
+        "dayOfWeek": 6,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 20
+      }
+    ],
+    "blockedDates": []
+  },
+  {
+    "specialization": "Gynecologist",
+    "experienceYears": 14,
+    "consultationFee": 1800,
+    "about": "Expert gynecologist specializing in women's health, pregnancy care, and reproductive medicine. Provides comprehensive care for all stages of a woman's life.",
+    "clinicName": "Women's Wellness Center",
+    "clinicAddress": "987 Care Street, Hitech City, Hyderabad",
+    "city": "Hyderabad",
+    "isApproved": true,
+    "schedule": [
+      {
+        "dayOfWeek": 0,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 1,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "15:00",
+        "endTime": "19:00",
+        "slotDurationMinutes": 30
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "slotDurationMinutes": 30
+      }
+    ],
+    "blockedDates": []
+  }
+]
+
