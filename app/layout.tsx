@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Doctor Appointment Platform",
   description: "Book doctor appointments online",
+  icons: {
+    icon: '/icon',
+  },
 };
 
 export default function RootLayout({

@@ -8,7 +8,8 @@ export interface ScheduleDay {
 }
 
 export interface Doctor {
-    id: string;
+    id?: string;
+    _id?: string;
     user: User | string;
     specialization: string;
     experienceYears: number;

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useParams, useRouter } from "next/navigation";
+import toast from "react-hot-toast";
 import { useDoctor } from "@/app/hooks/useDoctors";
 import { useSlots } from "@/app/hooks/useSlots";
 import { AppointmentSlot } from "@/components/AppointmentSlot";
@@ -52,10 +53,10 @@ export default function DoctorDetailPage() {
             if (data.success) {
                 router.push("/appointment/success");
             } else {
-                alert(data.message || "Failed to book appointment");
+                toast.error(data.message || "Failed to book appointment");
             }
         } catch (error) {
-            alert("An error occurred. Please try again.");
+            toast.error("An error occurred. Please try again.");
         } finally {
             setIsBooking(false);
         }

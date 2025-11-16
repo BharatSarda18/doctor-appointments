@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
+import toast from "react-hot-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
@@ -52,10 +53,10 @@ export default function DoctorSchedulePage() {
         try {
             // This would typically update the doctor's schedule via API
             // For now, we'll just show a success message
-            alert("Schedule saved successfully!");
+            toast.success("Schedule saved successfully!");
             router.push("/dashboard/doctor");
         } catch (error) {
-            alert("Failed to save schedule");
+            toast.error("Failed to save schedule");
         } finally {
             setSaving(false);
         }
