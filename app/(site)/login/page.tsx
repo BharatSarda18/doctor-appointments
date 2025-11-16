@@ -77,6 +77,7 @@ export default function LoginPage() {
                             label="Email"
                             type="email"
                             required
+                            placeholder="Enter your email"
                             value={formData.email}
                             onChange={(e) =>
                                 setFormData({ ...formData, email: e.target.value })
@@ -86,6 +87,7 @@ export default function LoginPage() {
                             label="Password"
                             type="password"
                             required
+                            placeholder="Enter your password"
                             value={formData.password}
                             onChange={(e) =>
                                 setFormData({ ...formData, password: e.target.value })
